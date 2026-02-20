@@ -1,6 +1,6 @@
-# HomeServices Website
+# Home Services Website
 
-A responsive service-based website built with React to showcase home maintenance services and demonstrate clean UI structure and routing architecture.
+A responsive service-based website built with React to showcase home maintenance services and demonstrate clean UI structure.
 
 ## Live Site:
 
@@ -10,7 +10,7 @@ https://ananya-home-services.netlify.app/
 
 - React
 
-- React Router
+- JavaScript(ES6)
 
 - Vite
 
@@ -18,15 +18,13 @@ https://ananya-home-services.netlify.app/
 
 ## Features
 
-- Multi-page routing with React Router
-
 - Responsive layout (mobile-first design)
 
 - Modular component structure
 
 - Reusable service card components
 
-- Clean navigation and page hierarchy
+- Structured layout with clear content hierarchy and intuitive navigation.
 
 ## Local Setup
 
